@@ -8,10 +8,10 @@ Explore Features · Getting Started · Future Enhancements
 </div>
 
 🌱 About the Project
-Gajghor Nursery is an e-commerce website concept designed to make buying plants simple and enjoyable. Customers can discover plants by category, learn about their care requirements, add products to a cart and place orders. A dedicated administration area is planned to help the nursery owner manage products, inventory and customer orders.
+Gachhghar is an e-commerce website concept designed to make buying plants simple and enjoyable. Customers can discover plants by category, learn about their care requirements, add products to a cart and place orders. A dedicated administration area is planned to help the nursery owner manage products, inventory and customer orders.
 <div align="center">
 
-# 🌿 Gajghor Nursery
+# 🌿 Gachhghar 
 
 ### Bring Nature Home, One Plant at a Time.
 
