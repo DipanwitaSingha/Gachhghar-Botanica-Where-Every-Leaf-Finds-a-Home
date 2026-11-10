@@ -1,0 +1,8 @@
+{
+  "name": "Gachhghar – Grow Your Own Paradise",
+  "description": "Online plant nursery specializing in premium roses, vibrant bougainvillea, exotic variety leaf plants, and sacred lotus. Visit in-person to verify species and pay on pickup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
