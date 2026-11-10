@@ -15,7 +15,7 @@ import {
   AlertCircle
 } from 'lucide-react';
 import { CodOrder, OrderStageType } from '../types/nursery';
-import { NURSERY_CONTACT } from '../data/plantCatalog';
+import { NURSERY_CONTACT, IMAGES } from '../data/plantCatalog';
 
 interface OrderTrackingModalProps {
   isOpen: boolean;
@@ -162,7 +162,7 @@ export const OrderTrackingModal: React.FC<OrderTrackingModalProps> = ({
               reviewsCount: 165,
               inStock: true,
               stockQuantity: 45,
-              image: '/src/assets/images/product_nilkantha_butterfly_pea_1794310081764.jpg',
+              image: IMAGES.nilkantha,
               shortDescription: 'Vibrant cobalt-blue sacred blossoms.',
               fullDescription: 'The revered Nilkantha vine.',
               sunlight: 'Full Sun (6+ hrs)',
@@ -191,7 +191,7 @@ export const OrderTrackingModal: React.FC<OrderTrackingModalProps> = ({
               reviewsCount: 188,
               inStock: true,
               stockQuantity: 24,
-              image: '/src/assets/images/product_adenium_desert_rose_1794310080286.jpg',
+              image: IMAGES.adenium,
               shortDescription: 'Sculptural swollen caudex bonsai.',
               fullDescription: 'Prized for its thick caudex trunk.',
               sunlight: 'Full Sun (6+ hrs)',

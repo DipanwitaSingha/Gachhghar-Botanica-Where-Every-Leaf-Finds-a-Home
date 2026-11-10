@@ -1,16 +1,26 @@
 import { PlantSpecies } from '../types/nursery';
 
-// Generated high-fidelity asset paths
+import heroImg from '../assets/images/hero_plant_nursery_1794307385726.jpg';
+import roseImg from '../assets/images/product_rose_plant_1794307386468.jpg';
+import bougainvilleaImg from '../assets/images/product_bougainvillea_1794307386687.jpg';
+import varietyLeafImg from '../assets/images/product_variety_leaf_1794307387846.jpg';
+import lotusImg from '../assets/images/product_lotus_plant_1794307387957.jpg';
+import adeniumImg from '../assets/images/product_adenium_desert_rose_1794310080286.jpg';
+import nilkanthaImg from '../assets/images/product_nilkantha_butterfly_pea_1794310081764.jpg';
+import hibiscusImg from '../assets/images/product_hibiscus_flowering_1794310082238.jpg';
+import palmBonsaiImg from '../assets/images/product_palm_bonsai_1794310082226.jpg';
+
+// High-fidelity image assets (imported as ESM so Vite bundles them properly for GitHub Pages & production builds)
 export const IMAGES = {
-  hero: '/src/assets/images/hero_plant_nursery_1794307385726.jpg',
-  rose: '/src/assets/images/product_rose_plant_1794307386468.jpg',
-  bougainvillea: '/src/assets/images/product_bougainvillea_1794307386687.jpg',
-  varietyLeaf: '/src/assets/images/product_variety_leaf_1794307387846.jpg',
-  lotus: '/src/assets/images/product_lotus_plant_1794307387957.jpg',
-  adenium: '/src/assets/images/product_adenium_desert_rose_1794310080286.jpg',
-  nilkantha: '/src/assets/images/product_nilkantha_butterfly_pea_1794310081764.jpg',
-  hibiscus: '/src/assets/images/product_hibiscus_flowering_1794310082238.jpg',
-  palmBonsai: '/src/assets/images/product_palm_bonsai_1794310082226.jpg',
+  hero: heroImg,
+  rose: roseImg,
+  bougainvillea: bougainvilleaImg,
+  varietyLeaf: varietyLeafImg,
+  lotus: lotusImg,
+  adenium: adeniumImg,
+  nilkantha: nilkanthaImg,
+  hibiscus: hibiscusImg,
+  palmBonsai: palmBonsaiImg,
 };
 
 export const NURSERY_CONTACT = {
