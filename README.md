@@ -19,7 +19,7 @@ Gachhghar is an e-commerce website concept designed to make buying plants simple
 
 [💻 View Source Code](https://github.com/DipanwitaSingha/Gachhghar-Botanica-Where-Every-Leaf-Finds-a-Home)
 
-[🌐Preview link](https://aistudio.google.com/apps/57ec11ab-7601-442b-802e-a33cb973d6b6?showAssistant=true&showPreview=true&fullscreenApplet=true)
+[🌐Preview link](https://aistudio.google.com/apps/57ec11ab-7601-442b-802e-a33cb973d6b6?showAssistant=true&showPreview=true&fullscreenApplet=true) /(https://ai.studio/apps/57ec11ab-7601-442b-802e-a33cb973d6b6)
 
 </div>
 
